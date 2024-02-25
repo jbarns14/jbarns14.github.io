@@ -1,7 +1,9 @@
 ---
-title: "."
+title: "Jake Barnabe"
 ---
 
-This is a Quarto website.
+Hello! Welcome to my page!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I've created this page to share a little about me, my projects, experiences, and interests. 
+
+

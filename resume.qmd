@@ -1,0 +1,7 @@
+---
+pagetitle: Resume | Jake Barnabe
+title: Resume
+subtitle: "Under construction"
+---
+
+Resume coming soon ...

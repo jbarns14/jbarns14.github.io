@@ -2,15 +2,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "Hello, my name is Jake. I am an MDS student at UBC. I am from Ottawa, ON, and I am 25 years old."
+    "text": "Hello, my name is Jake Barnabe. I am an MDS student at UBC. I am from Ottawa, ON, and I am 25 years old."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "quanteda Python Package\n\n\nA package for simplifying the EDA of time-series data!\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": ".",
+    "title": "Jake Barnabe",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! Welcome to my page!\nI’ve created this page to share a little about me, my projects, experiences, and interests."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Resume coming soon …"
   }
 ]

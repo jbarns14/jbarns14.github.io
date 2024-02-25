@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 Hello, my name is Jake Barnabe. I am an MDS student at UBC. I am from Ottawa, ON, and I am 25 years old.

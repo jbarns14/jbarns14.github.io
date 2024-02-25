@@ -1,0 +1,15 @@
+---
+pagetitle: Projects | Jake Barnabe
+title: Projects
+subtitle: "Still in progress..."
+listing:
+  contents:
+    - path: https://github.com/UBC-MDS/quanteda
+      image: /images/quanteda_logo.png
+      title: "quanteda Python Package"
+      description: "A package for simplifying the EDA of time-series data!"
+  type: grid
+  feed: true
+  fields: [image, title, description]
+
+---

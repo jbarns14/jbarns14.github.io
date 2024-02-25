@@ -8,7 +8,23 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: github
+        href: https://github.com/jbarns14
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jake-barnabe/
+    logo: images/Jake.gif
+    logo-alt: "Jake Barnabe's Personal Website"
+    title: false
+    background: "#000000"
+    foreground: "#E6E6DD"
+    collapse-below: lg
 
 format:
   html:
