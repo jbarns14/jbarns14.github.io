@@ -19,6 +19,8 @@ website:
         href: https://github.com/jbarns14
       - icon: linkedin
         href: https://www.linkedin.com/in/jake-barnabe/
+      - icon: envelope-fill
+        href: mailto:jake.barnabe@queensu.ca
     logo: images/Jake.gif
     logo-alt: "Jake Barnabe's Personal Website"
     title: false
@@ -31,6 +33,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    includes:
+      in-header: styles.css
 
 
 

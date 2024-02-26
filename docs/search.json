@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello, my name is Jake Barnabe. I am an MDS student at UBC. I am from Ottawa, ON, and I am 25 years old."
+    "text": "Hello, my name is Jake Barnabe. I am a Master’s of Data Science student at the University of British Columbia. I am from Ottawa, ON, and I am 25 years old.\n\n\nMaster’s of Data Science | University of British Columbia  Vancouver, BC | Sept 2023 - June 2024\nBA (Hons) in Applied Economics | Queen’s University  Kingston, ON | Sept 2016 - April 2021\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   },
   {
     "objectID": "projects.html",
@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Jake Barnabe",
     "section": "",
-    "text": "Hello! Welcome to my page!\nI’ve created this page to share a little about me, my projects, experiences, and interests."
+    "text": "Welcome to my page!\nI’ve created this website to share a little about me, my projects, experiences, and interests."
   },
   {
     "objectID": "resume.html",
@@ -26,5 +26,33 @@
     "title": "Resume",
     "section": "",
     "text": "Resume coming soon …"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jake Barnabe",
+    "section": "",
+    "text": "Master’s of Data Science | University of British Columbia  Vancouver, BC | Sept 2023 - June 2024\nBA (Hons) in Applied Economics | Queen’s University  Kingston, ON | Sept 2016 - April 2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jake Barnabe",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Master’s of Data Science | University of British Columbia  Vancouver, BC | Sept 2023 - June 2024\nBA (Hons) in Applied Economics | Queen’s University  Kingston, ON | Sept 2016 - April 2021"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   }
 ]

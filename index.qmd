@@ -1,9 +1,24 @@
 ---
 title: "Jake Barnabe"
+toc: false
+about:
+  id: hero-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 20em
+  
+  links:
+    - icon: github
+      text: Github
+      href: https://www.github.com/jbarns14
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jake-barnabe/
+    - icon: envelope
+      text: Email
+      href: mailto:jake.barnabe@queensu.ca
 ---
 
-Hello! Welcome to my page!
+Welcome to my page!
 
-I've created this page to share a little about me, my projects, experiences, and interests. 
-
-
+I've created this website to share a little about me, my projects, experiences, and interests. 

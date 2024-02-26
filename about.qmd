@@ -2,4 +2,24 @@
 title: "About Me"
 ---
 
-Hello, my name is Jake Barnabe. I am an MDS student at UBC. I am from Ottawa, ON, and I am 25 years old.
+
+
+:::{#hero-heading}
+
+Hello, my name is Jake Barnabe. I am a Master's of Data Science student at the University of British Columbia. I am from Ottawa, ON, and I am 25 years old.
+
+## Education
+
+Master's of Data Science | University of British Columbia <br>
+Vancouver, BC | Sept 2023 - June 2024
+
+BA (Hons) in Applied Economics | Queen's University <br>
+Kingston, ON | Sept 2016 - April 2021
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Sept 2012 - April 2018
+
+:::
