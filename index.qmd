@@ -32,13 +32,13 @@ I've created this website to share a little about me, my projects, experiences, 
 ::: {style="text-align: center;"}
 ### [About Me](about.qmd)
 
-Learn a bit more about me and the past couple years of my life!
+Learn a bit about me and what I've been up to recently!
 :::
 
 ::: {style="text-align: center;"}
 ### [Projects](projects.qmd)
 
-Take a peek at some of my notable projects!
+Explore some of my notable projects!
 :::
 
 ::: {style="text-align: center;"}

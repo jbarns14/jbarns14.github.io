@@ -6,3 +6,23 @@
     align-items: baseline;
 }
 
+.mainbox {
+    background-color: #e4ecf7;
+    color: #545454;
+    text-align: center;
+}
+.mainbox a {
+    color: #545454;
+    font-size: 90%;
+    text-decoration: none;
+}
+      
+.mainbox h2 {
+    font-weight: lighter;
+    border-bottom-width: 0px;
+}
+      
+.mainbox p {
+    font-weight: lighter;
+    font-size: 80%;
+}
