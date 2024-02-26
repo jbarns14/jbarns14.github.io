@@ -1,12 +1,19 @@
 ---
+pagetitle: About Me | Jake Barnabe
 title: "About Me"
+toc: false
+about:
+  template: solana
+  image-shape: round
+  image-width: 10em
+  image: images/headshot.jpeg
 ---
 
 
 
 :::{#hero-heading}
 
-Hello, my name is Jake Barnabe. I am a Master's of Data Science student at the University of British Columbia. I am from Ottawa, ON, and I am 25 years old.
+Hi, my name is Jake Barnabe. I'm from Ottawa, ON, and I'm 25 years old. I am currently a Master's of Data Science student at the University of British Columbia and passionate about machine learning, team building, and active living!
 
 ## Education
 
