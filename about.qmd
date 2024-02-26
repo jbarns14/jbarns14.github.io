@@ -4,20 +4,22 @@ title: "About Me"
 toc: false
 about:
   template: solana
-  image-shape: round
-  image-width: 10em
-  image: images/headshot.jpeg
+  image-shape: rounded
+  image-width: 15em
+  image: images/boarding.jpeg
+  
 ---
-
 
 
 :::{#hero-heading}
 
-Hi, my name is Jake Barnabe. I'm from Ottawa, ON, and I'm 25 years old. I am currently a Master's of Data Science student at the University of British Columbia and am passionate about machine learning, team building, and active living!
+Hi, my name is Jake Barnabe. I'm from Ottawa, ON, and I'm 25 years old. I am currently a Master's of Data Science student at the University of British Columbia and am passionate about machine learning, team building, and active living! <br>
+
+In my down time I enjoy travelling, playing sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer!
 
 # Education
 
-### Master's of Data Science 
+### Master's of Data Science - MDS
 ##### University of British Columbia | Vancouver, BC | Sept 2023 - June 2024
 <h5><a href="https://ubc-mds.github.io/descriptions/" style="color:#545454;">Key Courses</a></h5>
 - **Machine Learning** (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
@@ -31,13 +33,22 @@ Hi, my name is Jake Barnabe. I'm from Ottawa, ON, and I'm 25 years old. I am cur
 
 
 
-### BA (Hons) in Applied Economics  
+### Bachelor of Arts (Honours) in Applied Economics - BA (Hons)  
 ##### Queen's University | Kingston, ON | Sept 2016 - April 2021
+<h5><a style="color:#545454;">Key Courses</a></h5>
+- **Statistics** 
+- **Econometrics** 
+- **Elements of Data Analytics** 
+- **Microeconomic Theory**
+- **Cost-benefit Analysis** 
+
 
 # Experience
 
-Statistics Canada | Analyst | January 2022 - August 2023
+### Statistics Canada | Analyst 
+##### Ottawa, ON | January 2022 - August 2023
 
-Royal Canadian Mounted Police | Project Coordinator | August 2020 - December 2021
+### Royal Canadian Mounted Police | Project Coordinator 
+##### Ottawa, ON | August 2020 - December 2021
 
 :::
