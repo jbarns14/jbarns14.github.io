@@ -28,7 +28,7 @@ I've created this website to share a little about me, my projects, experiences, 
 
 ::: mainbox
 ::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
-::: {layout-ncol="3"}
+::: {layout-ncol="1"}
 ::: {style="text-align: center;"}
 ### [About Me](about.qmd)
 
