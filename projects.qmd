@@ -1,13 +1,17 @@
 ---
 pagetitle: Projects | Jake Barnabe
 title: Projects
-subtitle: "Still in progress..."
+subtitle: "Working on new ones everyday!"
 listing:
   contents:
     - path: https://github.com/UBC-MDS/quanteda
       image: /images/quanteda_logo.png
       title: "quanteda Python Package"
       description: "A package for simplifying the EDA of time-series data!"
+    - path: https://ubc-mds.github.io/fifa-potential/high-potential-fifa-prediction-report.html
+      image: /images/soccer.png
+      title: "Predicting high-potential FIFA players using individual performance data"
+      description: "A classifier model to identify soccer players with high potential"
   type: grid
   feed: true
   fields: [image, title, description]
