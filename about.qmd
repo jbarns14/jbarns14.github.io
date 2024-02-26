@@ -13,17 +13,28 @@ about:
 
 :::{#hero-heading}
 
-Hi, my name is Jake Barnabe. I'm from Ottawa, ON, and I'm 25 years old. I am currently a Master's of Data Science student at the University of British Columbia and passionate about machine learning, team building, and active living!
+Hi, my name is Jake Barnabe. I'm from Ottawa, ON, and I'm 25 years old. I am currently a Master's of Data Science student at the University of British Columbia and am passionate about machine learning, team building, and active living!
 
-## Education
+# Education
 
-Master's of Data Science | University of British Columbia <br>
-Vancouver, BC | Sept 2023 - June 2024
+### Master's of Data Science 
+##### University of British Columbia | Vancouver, BC | Sept 2023 - June 2024
+<h5><a href="https://ubc-mds.github.io/descriptions/" style="color:#545454;">Key Courses</a></h5>
+- **Machine Learning** (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
+- **Statistics** (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)
+- **Relational Databases & Database Management** (PostgreSQL, NoSQL, MongoDB)
+- **Data Visualization** (Python: Altair & matlplotlib, R: ggplot)
+- **ML Ops & Software Development** (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)
+- **Web & Cloud Computing** (AWS, Spark)
+- **Data Structures & Algorithms**
+- **Data Privacy & Ethics**
 
-BA (Hons) in Applied Economics | Queen's University <br>
-Kingston, ON | Sept 2016 - April 2021
 
-## Experience
+
+### BA (Hons) in Applied Economics  
+##### Queen's University | Kingston, ON | Sept 2016 - April 2021
+
+# Experience
 
 Statistics Canada | Analyst | January 2022 - August 2023
 
