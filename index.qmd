@@ -6,7 +6,7 @@ about:
   template: jolla
   image-shape: rounded
   image-width: 20em
-  
+  image: images/headshot.jpeg
   links:
     - icon: github
       text: Github
@@ -19,6 +19,34 @@ about:
       href: mailto:jake.barnabe@queensu.ca
 ---
 
+---
+
 Welcome to my page!
 
 I've created this website to share a little about me, my projects, experiences, and interests. 
+---
+
+::: mainbox
+::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
+::: {layout-ncol="3"}
+::: {style="text-align: center;"}
+### [About Me](about.qmd)
+
+Learn a bit more about me and the past couple years of my life!
+:::
+
+::: {style="text-align: center;"}
+### [Projects](projects.qmd)
+
+Take a peek at some of my notable projects!
+:::
+
+::: {style="text-align: center;"}
+### [Resume](resume.qmd)
+
+Here's my full resume!\
+\
+:::
+:::
+:::
+:::

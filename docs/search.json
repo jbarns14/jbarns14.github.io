@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello, my name is Jake Barnabe. I am a Master’s of Data Science student at the University of British Columbia. I am from Ottawa, ON, and I am 25 years old.\n\n\nMaster’s of Data Science | University of British Columbia  Vancouver, BC | Sept 2023 - June 2024\nBA (Hons) in Applied Economics | Queen’s University  Kingston, ON | Sept 2016 - April 2021\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "Hello, my name is Jake Barnabe. I am a Master’s of Data Science student at the University of British Columbia. I am from Ottawa, ON, and I am 25 years old.\n\n\nMaster’s of Data Science | University of British Columbia  Vancouver, BC | Sept 2023 - June 2024\nBA (Hons) in Applied Economics | Queen’s University  Kingston, ON | Sept 2016 - April 2021\n\n\n\nStatistics Canada | Analyst | January 2022 - August 2023\nRoyal Canadian Mounted Police | Project Coordinator | August 2020 - December 2021"
   },
   {
     "objectID": "projects.html",
@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Jake Barnabe",
     "section": "",
-    "text": "Welcome to my page!\nI’ve created this website to share a little about me, my projects, experiences, and interests."
+    "text": "Welcome to my page!\nI’ve created this website to share a little about me, my projects, experiences, and interests.\n\n\n\n\n\n\nAbout Me\nLearn a bit more about me and the past couple years of my life!\n\n\nProjects\nTake a peek at some of my notable projects!\n\n\nResume\nHere’s my full resume!"
   },
   {
     "objectID": "resume.html",
@@ -53,6 +53,6 @@
     "href": "about.html#experience",
     "title": "About Me",
     "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "Statistics Canada | Analyst | January 2022 - August 2023\nRoyal Canadian Mounted Police | Project Coordinator | August 2020 - December 2021"
   }
 ]
