@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi, my name is Jake Barnabe. I’m from Ottawa, ON, and I’m 25 years old. I am currently a Master’s of Data Science student at the University of British Columbia and am passionate about machine learning, team building, and active living! \nIn my down time I enjoy travelling, playing sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer!\n\nEducation\n\nMaster’s of Data Science - MDS\n\nUniversity of British Columbia | Vancouver, BC | Sept 2023 - June 2024\n\nKey Courses\n\n\nMachine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\nStatistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)\nRelational Databases & Database Management (PostgreSQL, NoSQL, MongoDB)\nData Visualization (Python: Altair & matlplotlib, R: ggplot)\nML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\nWeb & Cloud Computing (AWS, Spark)\nData Structures & Algorithms\nData Privacy & Ethics\n\n\n\n\nBachelor of Arts (Honours) in Applied Economics - BA (Hons)\n\nQueen’s University | Kingston, ON | Sept 2016 - April 2021\n\nKey Courses\n\n\nStatistics\nEconometrics\nElements of Data Analytics\nMicroeconomic Theory\nCost-benefit Analysis\n\n\n\n\n\nExperience\n\nStatistics Canada | Analyst\n\nOttawa, ON | January 2022 - August 2023\n\n\n\nRoyal Canadian Mounted Police | Project Coordinator\n\nOttawa, ON | August 2020 - December 2021"
+    "text": "Hi, my name is Jake Barnabe. I’m from Ottawa, ON, and I’m 25 years old. I am currently a Master’s of Data Science student at the University of British Columbia and am passionate about machine learning, team building, and active living! \nIn my down time I enjoy travelling, playing sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer!"
   },
   {
     "objectID": "projects.html",
@@ -45,15 +45,15 @@
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About Me",
-    "section": "",
-    "text": "Key Courses  - Machine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning) - Statistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression) - Relational Databases & Database Management (PostgreSQL, NoSQL, MongoDB) - Data Visualization (Python: Altair & matlplotlib, R: ggplot) - ML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows) - Web & Cloud Computing (AWS, Spark) - Data Structures & Algorithms - Data Privacy & Ethics"
+    "section": "Education",
+    "text": "Education\n\nMaster’s of Data Science - MDS\n\nUniversity of British Columbia | Vancouver, BC | Sept 2023 - June 2024\n\nKey Courses\n\n\nMachine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\nStatistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)\nRelational Databases & Database Management (PostgreSQL, NoSQL, MongoDB)\nData Visualization (Python: Altair & matlplotlib, R: ggplot)\nML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\nWeb & Cloud Computing (AWS, Spark)\nData Structures & Algorithms\nData Privacy & Ethics\n\n\n\n\nBachelor of Arts (Honours) in Applied Economics - BA (Hons)\n\nQueen’s University | Kingston, ON | Sept 2016 - April 2021\n\nKey Courses\n\n\nStatistics\nEconometrics\nData Analytics\nMicroeconomic Theory\nCost-benefit Analysis"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "About Me",
-    "section": "",
-    "text": "Statistics Canada | Analyst | January 2022 - August 2023\nRoyal Canadian Mounted Police | Project Coordinator | August 2020 - December 2021"
+    "section": "Experience",
+    "text": "Experience\n\nStatistics Canada | Analyst\n\nOttawa, ON | January 2022 - August 2023\n\n\n\nRoyal Canadian Mounted Police | Project Coordinator\n\nOttawa, ON | August 2020 - December 2021\n\n\nI am experienced using:\n\nPython\nR\nSQL\nGit\nAWS\nMongoDB\nQuarto"
   },
   {
     "objectID": "about.html#masters-of-data-science-university-of-british-columbia-vancouver-bc-sept-2023---june-2024",
