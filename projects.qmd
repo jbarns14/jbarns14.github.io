@@ -4,14 +4,18 @@ title: Projects
 subtitle: "Working on new ones everyday!"
 listing:
   contents:
-    - path: https://github.com/UBC-MDS/quanteda
-      image: /images/quanteda_logo.png
-      title: "quanteda Python Package"
-      description: "A package for simplifying the EDA of time-series data!"
+    - path: https://dsci-532-2024-15-dreamhouse.onrender.com/
+      image: /images/dreamhouse_pic.jpeg
+      title: "Dreamhouse - A Real-Estate Dashboard"
+      description: "A dashboard built using Plotly Dash to help newcomers to real-estate explore the markets of the 50 most populous cities in the US."
     - path: https://ubc-mds.github.io/fifa-potential/high-potential-fifa-prediction-report.html
       image: /images/soccer.png
       title: "Predicting high-potential FIFA players using individual performance data"
       description: "A classifier model to identify soccer players with high potential"
+    - path: https://github.com/UBC-MDS/quanteda
+      image: /images/quanteda_logo.png
+      title: "quanteda Python Package"
+      description: "A package for simplifying the EDA of time-series data!"
   type: grid
   feed: true
   fields: [image, title, description]

@@ -1,7 +1,10 @@
 ---
 pagetitle: Resume | Jake Barnabe
-title: Resume
-subtitle: "Under construction"
+title: My Resume
+
 ---
 
-Resume coming soon ...
+You can download the PDF of my resume from [this link](assets/jakebarnabe_resume.pdf).
+
+<iframe src="assets/jakebarnabe_resume.pdf" width="100%" height="1200px">
+
