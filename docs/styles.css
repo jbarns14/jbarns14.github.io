@@ -8,21 +8,31 @@
 
 .mainbox {
     background-color: #ffffff;
-    color: #545454;
+    color: #000000;
     text-align: center;
 }
+
 .mainbox a {
-    color: #545454;
+    color: #000000;
     font-size: 90%;
     text-decoration: none;
 }
-      
+
 .mainbox h2 {
     font-weight: lighter;
     border-bottom-width: 0px;
 }
-      
+
 .mainbox p {
     font-weight: lighter;
     font-size: 80%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: #000000;
 }

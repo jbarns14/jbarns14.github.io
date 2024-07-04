@@ -4,57 +4,74 @@ title: "About Me"
 toc: false
 about:
   template: solana
-  image-shape: rounded
-  image-width: 10em
+  image-shape: round
+  image-width: 15em
   image: images/boarding.jpeg
-  
+
 ---
 
+I recently completed my Master's of Data Science (MDS) at the University of British Columbia and am passionate about machine learning, statistical modelling, team building, and active living! I am a creative problem solver who is experienced building data pipelines, statistical models, and dashboards. I am skilled in Python and R, and have experience with SQL.<br>
 
-:::{#hero-heading}
+In my down time I enjoy travelling, sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer! <br>
 
-Hi, my name is Jake Barnabe. I'm from Ottawa, ON, and I'm 25 years old. I am currently a Master's of Data Science student at the University of British Columbia and am passionate about machine learning, team building, and active living! <br>
-
-In my down time I enjoy travelling, playing sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer!
-:::
-
+Below are a few highlights from my educational journey, but for more details on my previous experiences check out my [resume](resume.qmd)!
+--- 
 
 ## Education
 
-### Master's of Data Science - MDS
-##### University of British Columbia | Vancouver, BC | Sept 2023 - June 2024
-<h5><a href="https://ubc-mds.github.io/descriptions/" style="color:#545454;">Key Courses</a></h5>
-- **Machine Learning** (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
-- **Statistics** (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)
-- **Relational Databases & Database Management** (PostgreSQL, NoSQL, MongoDB)
-- **Data Visualization** (Python: Altair & matlplotlib, R: ggplot)
-- **ML Ops & Software Development** (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)
-- **Web & Cloud Computing** (AWS, Spark)
-- **Data Structures & Algorithms**
-- **Data Privacy & Ethics**
+#### **Master's of Data Science**
+##### University of British Columbia | Vancouver, BC <br> <br>
 
-### Bachelor of Arts (Honours) in Applied Economics - BA (Hons)  
-##### Queen's University | Kingston, ON | Sept 2016 - April 2021
-<h5><a style="color:#545454;">Key Courses</a></h5>
-- **Statistics** 
-- **Econometrics** 
-- **Data Analytics** 
-- **Microeconomic Theory**
-- **Cost-benefit Analysis** 
+<h5><a style="color:#000000;">Capstone Project</a></h5>
+**Predicting Physical Performance** - Vancouver Whitecaps FC <br>
+- Constructed a data pipeline using Python, R, and SQL that queries new data from Snowflake,
+preprocesses it, feeds it to a series of linear mixed-effects models to predict first-team player
+physical performance, and saves the predictions back to Snowflake as a new table.
 
-## Experience
+<h5><a style="color:#000000;">Awards:</a></h5>
+- **Audience Choice Award: Best Capstone Presentation**
 
-### Statistics Canada | Analyst 
-##### Ottawa, ON | January 2022 - August 2023
+<h5><a style="color:#000000;">Key Courses:</a></h5>
+- Machine Learning
+  - (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
+- Statistics 
+  - (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)
+- Relational Databases & Database Management
+  - (PostgreSQL, NoSQL, MongoDB)
+- Data Visualization 
+  - (Python: Altair & matlplotlib, R: ggplot)
+- ML Ops & Software Development 
+  - (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)
+- Web & Cloud Computing
+  - (AWS, Spark)
+- Data Structures & Algorithms
+- Data Privacy & Ethics
 
-### Royal Canadian Mounted Police | Project Coordinator 
-##### Ottawa, ON | August 2020 - December 2021
+#### **Bachelor of Arts** (Applied Economics)
+##### Queen's University | Kingston, ON <br> <br>
 
-#### I am experienced using:
-- **Python**
-- **R**
-- **SQL**
-- **Git**
-- **AWS**
-- **MongoDB**
-- **Quarto**
+<h5><a style="color:#000000;">Key Courses:</a></h5>
+- Statistics 
+- Econometrics 
+- Data Analytics
+- Python Programming
+
+---
+
+#### I am experienced with the following tools:
+- Python
+- R
+- SQL
+- GitHub
+- AWS
+- PySpark 
+- Tensorflow
+- MongoDB
+- Snowflake
+- Plotly Dash
+- Quarto
+
+---
+<div style="text-align: center;">
+  **If you would like to know more about me please reach out on [LinkedIn](https://www.linkedin.com/in/jake-barnabe/) or by sending me an [email](mailto:jake.barnabe@queensu.ca)!**
+</div>

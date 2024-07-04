@@ -35,6 +35,7 @@ format:
     toc: true
     includes:
       in-header: styles.css
+    page-layout: full
 
 
 

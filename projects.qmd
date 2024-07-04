@@ -11,11 +11,16 @@ listing:
     - path: https://ubc-mds.github.io/fifa-potential/high-potential-fifa-prediction-report.html
       image: /images/soccer.png
       title: "Predicting high-potential FIFA players using individual performance data"
-      description: "A classifier model to identify soccer players with high potential"
+      description: "A classifier model to identify soccer players with high potential."
     - path: https://github.com/UBC-MDS/quanteda
       image: /images/quanteda_logo.png
       title: "quanteda Python Package"
-      description: "A package for simplifying the EDA of time-series data!"
+      description: "A package for simplifying the EDA of time-series data."
+    - path: https://medium.com/@jake.barnabe10/defense-wins-championships-coachs-fact-or-fallacy-82e849bbd7df
+      image: /images/basketball.jpeg
+      title: "“Defense wins championships”: Coach’s fact or fallacy?"
+      description: "In this blog post, I use logistic regression and data from 10 NCAA men’s basketball seasons to assess the validity of a common coaching adage. 
+"
   type: grid
   feed: true
   fields: [image, title, description]
