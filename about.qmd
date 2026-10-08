@@ -10,70 +10,70 @@ about:
 
 ---
 
-I’m a data scientist passionate about sports analytics and driven by the opportunity to solve problems and collaborate as part of a team.<br>
+I’m a data scientist passionate about sports analytics and driven by the opportunity to solve problems and collaborate as part of a team.
 
-I’m a creative, analytically minded problem solver who enjoys exploring complex datasets, uncovering meaningful patterns, and turning data into clear, actionable insights. With strong Python skills and a focus on effective communication, I enjoy translating technical findings into ideas that are accessible to both technical and non-technical audiences.<br>
+I’m a creative, analytically minded problem solver who enjoys exploring complex datasets, uncovering meaningful patterns, and turning data into clear, actionable insights. With strong Python skills and a focus on effective communication, I enjoy translating technical findings into ideas that are accessible to both technical and non-technical audiences.
 
-Outside of work, I enjoy travelling, playing and watching sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer! <br>
+Outside of work, I enjoy travelling, playing and watching sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer!
 
-Below are a few highlights from my educational journey, but for more details on my previous experiences check out my [resume](resume.qmd)!
---- 
+For more details, check out my [resume](resume.qmd).
+
+## Experience
+
+### Predictive Analyst · Sitewise Analytics
+*Vancouver, BC · Nov 2024 – Present*
+
+- Contributed to 25+ predictive models in 2025, covering data cleaning, feature engineering, and methods including KNN, Random Forest, and XGBoost.
+- Developed a new method to estimate sales distributions from zipcode-level customer delivery data.
+- Automated dashboards that communicate model progress and key insights to leadership and clients.
+- Moved key data preparation workflows from Alteryx to Python, improving efficiency and scalability.
+
+### Analyst · Statistics Canada
+*Ottawa, ON · Jan 2022 – Aug 2023*
+
+- Led data collection for the 2022 Elementary-Secondary Education Survey by coordinating with provincial ministries across Canada.
+- Analyzed large education datasets to identify enrollment trends and quantify the impact of COVID-19.
+- Authored the ESES survey release article, translating complex findings into accessible insights for Canadians.
 
 ## Education
 
-#### **Master's of Data Science**
-##### University of British Columbia | Vancouver, BC <br> <br>
+:::: {.columns}
 
-<h5><a style="color:#000000;">Capstone Project</a></h5>
-**Predicting Physical Performance** - Vancouver Whitecaps FC <br>
-- Constructed a data pipeline using Python, R, and SQL that queries new data from Snowflake,
-preprocesses it, feeds it to a series of linear mixed-effects models to predict first-team player
-physical performance, and saves the predictions back to Snowflake as a new table.
+::: {.column width="50%"}
+### Master of Data Science
+**University of British Columbia** · Vancouver, BC
+:::
 
-<h5><a style="color:#000000;">Awards:</a></h5>
-- **Audience Choice Award: Best Capstone Presentation**
+::: {.column width="50%"}
+### Bachelor of Arts (Honours), Applied Economics
+**Queen's University** · Kingston, ON
+:::
 
-<h5><a style="color:#000000;">Key Courses:</a></h5>
-- Machine Learning
-  - (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)
-- Statistics 
-  - (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)
-- Relational Databases & Database Management
-  - (PostgreSQL, NoSQL, MongoDB)
-- Data Visualization 
-  - (Python: Altair & matlplotlib, R: ggplot)
-- ML Ops & Software Development 
-  - (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)
-- Web & Cloud Computing
-  - (AWS, Spark)
-- Data Structures & Algorithms
-- Data Privacy & Ethics
+::::
 
-#### **Bachelor of Arts** (Applied Economics)
-##### Queen's University | Kingston, ON <br> <br>
+::: {.callout-tip title="Capstone: Predicting Player Performance with Vancouver Whitecaps FC"}
+- Built an end-to-end machine learning pipeline in Python, R, and SQL to predict first-team player performance.
+- Developed linear mixed-effects models that improved prediction accuracy by 19.5%.
+- Received the Audience Choice Award: Best Capstone Presentation.
+:::
 
-<h5><a style="color:#000000;">Key Courses:</a></h5>
-- Statistics 
-- Econometrics 
-- Data Analytics
-- Python Programming
+<details>
+<summary>Key courses</summary>
 
----
+- **Machine Learning:** Supervised and unsupervised learning, classification, regression, neural networks, NLP, feature selection, time series, deep learning
+- **Statistics:** Predictive and descriptive inference, A/B testing, hypothesis testing, Bayesian statistics, regression
+- **Databases:** PostgreSQL, NoSQL, MongoDB
+- **Data visualization:** Altair and matplotlib (Python), ggplot (R)
+- **ML Ops and software development:** CI/CD, containerization, reproducibility, unit testing, automated workflows
+- **Web and cloud computing:** AWS, Spark
+- **Other:** Data structures and algorithms, data privacy and ethics
 
-#### I am experienced with the following tools:
-- Python
-- R
-- SQL
-- GitHub
-- AWS
-- PySpark 
-- Tensorflow
-- MongoDB
-- Snowflake
-- Plotly Dash
-- Quarto
+</details>
 
----
-<div style="text-align: center;">
-  **If you would like to know more about me please reach out on [LinkedIn](https://www.linkedin.com/in/jake-barnabe/) or by sending me an [email](mailto:jake.barnabe@queensu.ca)!**
-</div>
+## Skills
+
+Python · R · SQL · GitHub · AWS · PySpark · TensorFlow · MongoDB · Snowflake · Plotly Dash · Quarto
+
+## Get in touch
+
+Find me on [LinkedIn](https://www.linkedin.com/in/jake-barnabe/), [GitHub](https://github.com/jbarns14), or by [email](mailto:jake.barnabe@queensu.ca).
