@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I recently completed my Master’s of Data Science (MDS) at the University of British Columbia and am passionate about machine learning, statistical modelling, team building, and active living! I am a creative problem solver who is experienced building data pipelines, statistical models, and dashboards. I am skilled in Python and R, and have experience with SQL.\nIn my down time I enjoy travelling, sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer!\nBelow are a few highlights from my educational journey, but for more details on my previous experiences check out my resume!"
+    "text": "I’m a data scientist passionate about sports analytics and driven by the opportunity to solve problems and collaborate as part of a team.\nI’m a creative, analytically minded problem solver who enjoys exploring complex datasets, uncovering meaningful patterns, and turning data into clear, actionable insights. With strong Python skills and a focus on effective communication, I enjoy translating technical findings into ideas that are accessible to both technical and non-technical audiences.\nOutside of work, I enjoy travelling, playing and watching sports, taking in local stand-up comedy shows, and exploring all that Vancouver has to offer!\nFor more details, check out my resume."
   },
   {
     "objectID": "projects.html",
@@ -46,14 +46,14 @@
     "href": "about.html#education",
     "title": "About Me",
     "section": "Education",
-    "text": "Education\n\nMaster’s of Data Science\n\nUniversity of British Columbia | Vancouver, BC  \n\nCapstone Project\n\nPredicting Physical Performance - Vancouver Whitecaps FC  - Constructed a data pipeline using Python, R, and SQL that queries new data from Snowflake, preprocesses it, feeds it to a series of linear mixed-effects models to predict first-team player physical performance, and saves the predictions back to Snowflake as a new table.\n\nAwards:\n\n\nAudience Choice Award: Best Capstone Presentation\n\n\nKey Courses:\n\n\nMachine Learning\n\n(Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\n\nStatistics\n\n(Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)\n\nRelational Databases & Database Management\n\n(PostgreSQL, NoSQL, MongoDB)\n\nData Visualization\n\n(Python: Altair & matlplotlib, R: ggplot)\n\nML Ops & Software Development\n\n(CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\n\nWeb & Cloud Computing\n\n(AWS, Spark)\n\nData Structures & Algorithms\nData Privacy & Ethics\n\n\n\n\nBachelor of Arts (Applied Economics)\n\nQueen’s University | Kingston, ON  \n\nKey Courses:\n\n\nStatistics\nEconometrics\nData Analytics\nPython Programming\n\n\n\n\n\nI am experienced with the following tools:\n\nPython\nR\nSQL\nGitHub\nAWS\nPySpark\nTensorflow\nMongoDB\nSnowflake\nPlotly Dash\nQuarto\n\n\n\nIf you would like to know more about me please reach out on LinkedIn or by sending me an email!"
+    "text": "Education\n\n\n\nMaster of Data Science\nUniversity of British Columbia · Vancouver, BC\n\n\n\nBachelor of Arts (Honours), Applied Economics\nQueen’s University · Kingston, ON\n\n\n\n\n\n\n\n\n\nCapstone: Predicting Player Performance with Vancouver Whitecaps FC\n\n\n\n\nBuilt an end-to-end machine learning pipeline in Python, R, and SQL to predict first-team player performance.\nDeveloped linear mixed-effects models that improved prediction accuracy by 19.5%.\nReceived the Audience Choice Award: Best Capstone Presentation.\n\n\n\n\n\nKey courses\n\n\nMachine Learning: Supervised and unsupervised learning, classification, regression, neural networks, NLP, feature selection, time series, deep learning\nStatistics: Predictive and descriptive inference, A/B testing, hypothesis testing, Bayesian statistics, regression\nDatabases: PostgreSQL, NoSQL, MongoDB\nData visualization: Altair and matplotlib (Python), ggplot (R)\nML Ops and software development: CI/CD, containerization, reproducibility, unit testing, automated workflows\nWeb and cloud computing: AWS, Spark\nOther: Data structures and algorithms, data privacy and ethics"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "About Me",
     "section": "Experience",
-    "text": "Experience\n\nStatistics Canada | Analyst\n\nOttawa, ON | January 2022 - August 2023\n\n\n\nRoyal Canadian Mounted Police | Project Coordinator\n\nOttawa, ON | August 2020 - December 2021\n\n\nI am experienced using:\n\nPython\nR\nSQL\nGit\nAWS\nMongoDB\nQuarto"
+    "text": "Experience\n\nPredictive Analyst · Sitewise Analytics\nVancouver, BC · Nov 2024 – Present\n\nContributed to 25+ predictive models in 2025, covering data cleaning, feature engineering, and methods including KNN, Random Forest, and XGBoost.\nDeveloped a new method to estimate sales distributions from zipcode-level customer delivery data.\nAutomated dashboards that communicate model progress and key insights to leadership and clients.\nMoved key data preparation workflows from Alteryx to Python, improving efficiency and scalability.\n\n\n\nAnalyst · Statistics Canada\nOttawa, ON · Jan 2022 – Aug 2023\n\nLed data collection for the 2022 Elementary-Secondary Education Survey by coordinating with provincial ministries across Canada.\nAnalyzed large education datasets to identify enrollment trends and quantify the impact of COVID-19.\nAuthored the ESES survey release article, translating complex findings into accessible insights for Canadians."
   },
   {
     "objectID": "about.html#masters-of-data-science-university-of-british-columbia-vancouver-bc-sept-2023---june-2024",
@@ -61,5 +61,19 @@
     "title": "About Me",
     "section": "",
     "text": "Machine Learning (Supervised & Unsupervised; Classification, Regression, Neural Networks, Language Modelling (NLP), Feature Selection, Time Series & Temporal Models, Deep Learning)\nStatistics (Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression)\nRelational Databases & Database Management (PostgreSQL, NoSQL, MongoDB)\nData Visualization (Python: Altair & matlplotlib, R: ggplot)\nML Ops & Software Development (CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows)\nWeb & Cloud Computing (AWS, Spark)\nData Structures & Algorithms\nData Privacy & Ethics"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\nPython · R · SQL · GitHub · AWS · PySpark · TensorFlow · MongoDB · Snowflake · Plotly Dash · Quarto"
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About Me",
+    "section": "Get in touch",
+    "text": "Get in touch\nFind me on LinkedIn, GitHub, or by email."
   }
 ]

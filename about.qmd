@@ -23,17 +23,17 @@ For more details, check out my [resume](resume.qmd).
 ### Predictive Analyst · Sitewise Analytics
 *Vancouver, BC · Nov 2024 – Present*
 
-- Contributed to 25+ predictive models in 2025, covering data cleaning, feature engineering, and methods including KNN, Random Forest, and XGBoost.
-- Developed a new method to estimate sales distributions from zipcode-level customer delivery data.
-- Automated dashboards that communicate model progress and key insights to leadership and clients.
-- Moved key data preparation workflows from Alteryx to Python, improving efficiency and scalability.
+- Contributed to 25+ predictive models in 2025 using KNN, Random Forest, and XGBoost, covering data cleaning, feature engineering, and model evaluation.
+- Designed a new method to estimate sales distributions from zipcode-level customer delivery data, expanding the team's modelling capabilities.
+- Automated dashboards that share model progress and key insights with leadership and clients, supporting data-driven decisions.
+- Moved key data preparation workflows from Alteryx to Python, improving efficiency and scalability for the team's codebase.
 
 ### Analyst · Statistics Canada
 *Ottawa, ON · Jan 2022 – Aug 2023*
 
-- Led data collection for the 2022 Elementary-Secondary Education Survey by coordinating with provincial ministries across Canada.
+- Coordinated data collection for the national Elementary-Secondary Education Survey with provincial ministries across Canada, gathering requirements from stakeholders at every level.
 - Analyzed large education datasets to identify enrollment trends and quantify the impact of COVID-19.
-- Authored the ESES survey release article, translating complex findings into accessible insights for Canadians.
+- Authored the survey's public release article, translating complex findings into accessible insights for a general audience.
 
 ## Education
 
